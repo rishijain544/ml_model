@@ -3,4 +3,8 @@ pandas
 numpy
 scikit-learn
 matplotlib
+seaborn
+shap
+scipy
 joblib
+tqdm
