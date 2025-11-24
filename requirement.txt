@@ -1,0 +1,10 @@
+streamlit==1.36.0
+pandas
+numpy
+scikit-learn
+matplotlib==3.8.0
+seaborn
+shap
+scipy
+joblib
+tqdm
